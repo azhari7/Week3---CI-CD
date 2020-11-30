@@ -1,6 +1,8 @@
 # Week3---CI-CD
 
-1. Konfugurasi Reverse Proxy. disini domain cicd.azhari.insturctype.com akan diarahkan ke ip private Jenkins
+1. Konfugurasi Reverse Proxy. disini domain cicd.azhari.insturctype.com akan diarahkan ke ip private Jenkins!!
+![alt text](https://github.com/azhari7/Week3---CI-CD/blob/master/Asset/aws-07-config%20reverse%20proxycicd.jpg.png)
+
 2. instalasi docker penambahan repo, update package kemudian jalankan command apt install docker-ce docker-ce-cli containerd.io
 3. Dockerize aplikasi
    - Buat file Dockerfile pada folder yang akan di build menjadi image
